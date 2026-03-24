@@ -18,16 +18,16 @@ in HANA Cloud, XSUAA security, OData V4 APIs, and SAP UI5 frontend.
 
 **SAP / Cloud**  
 `SAP CAP` `SAP BTP` `SAP HANA Cloud` `OData V4` `XSUAA` `Cloud Foundry`
-`SAP UI5` `SAP Fiori` `AppRouter` `MTA Deployment`
+`SAP UI5` `AppRouter` `MTA Deployment`
 
 **Backend**  
-`Node.js` `Express.js` `MongoDB` `REST APIs`
+`SAP CAP` `Node.js` `Express.js` `MongoDB` 
 
 **Frontend**  
 `SAP UI5` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
 
 **Tools**  
-`Git` `VS Code` `SAP Business Application Studio` `Postman`
+`SAP Business Application Studio` `Git` `VS Code` `Postman`
 
 ---
 
